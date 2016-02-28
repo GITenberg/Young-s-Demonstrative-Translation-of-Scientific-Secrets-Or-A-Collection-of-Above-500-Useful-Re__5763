@@ -1,0 +1,22 @@
+_repo: Young-s-Demonstrative-Translation-of-Scientific-Secrets-Or-A-Collection-of-Above-500-Useful-Re__5763
+creator:
+  author:
+    agent_name: Young, Daniel
+    gutenberg_agent_id: '1867'
+    url: http://www.gutenberg.org/2009/agents/1867
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Formulas, recipes, etc.'
+- !lcsh 'Science -- Methodology'
+title: "Young's Demonstrative Translation of Scientific Secrets\r\nOr, A Collection\
+  \ of Above 500 Useful Receipts on a Variety of Subjects"
+url: http://www.gutenberg.org/ebooks/5763
