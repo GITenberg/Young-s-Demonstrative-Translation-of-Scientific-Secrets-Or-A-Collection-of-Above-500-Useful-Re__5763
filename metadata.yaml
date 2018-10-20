@@ -1,5 +1,5 @@
 _repo: Young-s-Demonstrative-Translation-of-Scientific-Secrets-Or-A-Collection-of-Above-500-Useful-Re__5763
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -23,6 +23,7 @@ subjects:
 - !lcc 'T'
 - !lcsh 'Formulas, recipes, etc.'
 - !lcsh 'Science -- Methodology'
+- GITenberg
 title: "Young's Demonstrative Translation of Scientific Secrets\r\nOr, A Collection\
   \ of Above 500 Useful Receipts on a Variety of Subjects"
 url: http://www.gutenberg.org/ebooks/5763
